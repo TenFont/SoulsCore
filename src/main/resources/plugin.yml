@@ -1,0 +1,6 @@
+name: Souls
+version: '${project.version}'
+main: org.tenfont.souls.Souls
+api-version: '1.18'
+depend: [Citizens]
+authors: [TenFont]
