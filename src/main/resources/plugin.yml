@@ -4,3 +4,7 @@ main: org.tenfont.souls.Souls
 api-version: '1.18'
 depend: [Citizens]
 authors: [TenFont]
+
+commands:
+  spawn:
+    permission: op
